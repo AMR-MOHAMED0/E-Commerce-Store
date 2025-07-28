@@ -17,4 +17,4 @@
 
 ## 🔨 Contributing
 - This version is **not accepting major changes**  
-- Report critical bugs via Issues
+- Report critical bugs via Issues# E-Commerce-Store
